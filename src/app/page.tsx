@@ -24,7 +24,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 // Public assets
-const logo = "/assets/AXYCAD-2.1.JPG";
+const logo = "/assets/AXYCAD-2.1.png";
 const clashVideo = "/videos/clash-detection.mp4";
 const viaductVideo = "/videos/mini-viaduct.mp4";
 const reelVideo = "/assets/reel-of-the-day.mp4";
