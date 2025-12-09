@@ -862,10 +862,9 @@ export default function AxycadHome() {
               </p>
             </div>
             <div>
-              <h3 className="text-white font-semibold mb-1">RISQS Registered (Audit Submitted)</h3>
+              <h3 className="text-white font-semibold mb-1">RISQS Verified Supplier</h3>
               <p>
-                Registered rail supplier with full audit submitted and
-                progressing towards accreditation.
+               Fully verified rail industry supplier under the RISQS scheme.
               </p>
             </div>
             <div>
